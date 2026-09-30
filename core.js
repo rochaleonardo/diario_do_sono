@@ -1,4 +1,4 @@
-export const APP='diario-do-sono',VERSION='1.0.2',FORMAT=1;
+export const APP='diario-do-sono',VERSION='1.0.3',FORMAT=1;
 export const scales=[['Exausto','Cansado','Neutro / Regular','Disposto','Revigorado'],['Muito Inquieto / Ruim','Leve / Agitado','Regular','Bom','Muito Pesado / Profundo']];
 export const questions=['Ontem, eu cochilei das ____ às ____.','Ontem, tomei ____ mg de medicação e/ou ____ ml de álcool para ajudar a dormir.','Na noite passada, eu fui para a cama e apaguei a luz às ____ horas.','Depois de apagar a luz, eu peguei no sono em ____ minutos.','Meu sono foi interrompido ____ vezes.','Meu sono foi interrompido por ____ minutos.','Na noite passada, eu levantei da cama ____ vezes.','Hoje de manhã, eu realmente acordei às ____ horas.','Esta manhã, eu tinha planejado despertar às ____ horas.','Esta manhã, eu realmente levantei da cama às ____ horas.','Quando me levantei esta manhã eu me sentia ____.','Em geral, o meu sono na noite passada foi ____.'];
 export const keys=['naps','meds','bed','latency','wakes','awake','exits','wake','planned','rise','feeling','quality'];
